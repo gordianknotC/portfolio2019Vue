@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="rootlayer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="987.099px" height="898.953px" viewBox="0 0 987.099 898.953" enable-background="new 0 0 987.099 898.953"
+	 xml:space="preserve">
+<g id="background">
+	
+		<radialGradient id="SVGID_1_" cx="523.7682" cy="161.6937" r="447.6346" gradientTransform="matrix(1 0 0 1 -16.72 376.3061)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000"/>
+		<stop  offset="1" style="stop-color:#777"/>
+	</radialGradient>
+	<polygon fill="url(#SVGID_1_)" points="500.117,10 49.343,898.953 947.298,898.953 	" style="opacity:0.2"/>
+</g>
+<path id="man" display="none" opacity="0.4" fill="#121616" d="M752.808,885.798c-10-17-110.893-116.943-110.893-116.943
+	l34.289-44.698c0,0-65.969-131.099-79.789-162.78c-13.82-31.682-45.656-31.893-86.553-51.715
+	c-29.594-14.343-44.297-57.687-50.166-80.553c24.245-22.248,39.911-57.499,39.911-97.187c0-67.297-45.033-121.851-100.583-121.851
+	s-100.583,54.555-100.583,121.851c0,40.763,16.525,76.846,41.9,98.967c-5.801,22.76-20.503,66.517-50.265,80.943
+	c-40.897,19.822-72.733,20.033-86.553,51.715c-13.82,31.682-79.789,162.78-79.789,162.78l34.289,44.698
+	c0,0-100.894,99.943-110.894,116.943c-10,17-72.026,146.859-10.537,146.859c85.815,0,279.458,1.315,279.458,1.315h120.013
+	c53.326,0,269.959-1.315,327.283-1.315C831.049,1034.826,762.808,902.798,752.808,885.798z"/>
+<g id="centers">
+	<path id="root" fill="#FFFFFF" d="M565.267,878.729c0,4.337-3.873,7.852-8.65,7.852H440.69c-4.778,0-8.65-3.515-8.65-7.852v-78.681
+		c0-4.337,3.873-7.852,8.65-7.852h115.928c4.778,0,8.65,3.515,8.65,7.852L565.267,878.729L565.267,878.729z"/>
+	<path id="sacral" fill="#FFFFFF" d="M555.346,759.503c0,4.337-3.296,7.852-7.362,7.852h-98.661c-4.066,0-7.362-3.515-7.362-7.852
+		v-97.681c0-4.337,3.296-7.852,7.362-7.852h98.662c4.066,0,7.362,3.515,7.362,7.852L555.346,759.503L555.346,759.503z"/>
+	<path id="gcenter" fill="#FFFFFF" d="M505.941,596.359c-2.821,2.821-7.252,2.964-9.898,0.319l-64.182-64.183
+		c-2.645-2.645-2.502-7.076,0.319-9.898l63.545-63.545c2.821-2.821,7.252-2.964,9.898-0.319l64.183,64.183
+		c2.645,2.645,2.502,7.076-0.319,9.898L505.941,596.359L505.941,596.359z"/>
+	<polygon id="spleen" fill="#FFFFFF" points="223.499,581.169 223.499,719.23 351.192,651.171 	"/>
+	<polygon id="solarplexus" fill="#FFFFFF" points="777.454,717.743 777.454,585.561 655.199,650.722 	"/>
+	<polygon id="heart" fill="#FFFFFF" points="550.241,609.725 644.678,604.602 628.219,542.612 	"/>
+	<path id="throat" fill="#FFFFFF" d="M568.7,408.114c0,7.329-5.941,13.271-13.271,13.271H443.238
+		c-7.329,0-13.271-5.941-13.271-13.271v-76.459c0-7.329,5.941-13.271,13.271-13.271H555.43c7.329,0,13.271,5.941,13.271,13.271
+		L568.7,408.114L568.7,408.114z"/>
+	<polygon id="ajna" fill="#FFFFFF" points="430.833,185.808 501.436,291.808 568.833,185.808 	"/>
+	<polygon id="head" fill="#FFFFFF" points="430.833,157.052 568.833,157.052 500.231,15.052 	"/>
+</g>
+<g id="channels_1_">
+	<g id="gate42">
+		<ellipse id="circle_x5F_path_x5F_layer_5_" fill="#231F20" cx="474.003" cy="744.668" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_5_" transform="matrix(1.0127 0 0 1 467.4193 748.7546)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">42</text>
+	</g>
+	<g id="gate3">
+		<ellipse id="circle_x5F_path_x5F_layer_4_" fill="#231F20" cx="500.117" cy="744.668" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_4_" transform="matrix(1.0127 0 0 1 496.1507 748.7546)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">3</text>
+	</g>
+	<g id="gate59">
+		<ellipse id="circle_x5F_path_x5F_layer_25_" fill="#231F20" cx="532.758" cy="710.662" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_25_" transform="matrix(1.0127 0 0 1 526.6127 714.7488)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">59</text>
+	</g>
+	<g id="gate6">
+		<ellipse id="circle_x5F_path_x5F_layer_26_" fill="#231F20" cx="680.323" cy="651.018" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_26_" transform="matrix(1.0127 0 0 1 677.0834 655.1042)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">6</text>
+	</g>
+	<g id="gate26">
+		<ellipse id="circle_x5F_path_x5F_layer_40_" fill="#231F20" cx="580.7" cy="598.561" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_40_" transform="matrix(1.0127 0 0 1 574.4603 602.6492)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">26</text>
+	</g>
+	<g id="gate51">
+		<ellipse id="circle_x5F_path_x5F_layer_41_" fill="#231F20" cx="600.7" cy="582.208" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_41_" transform="matrix(1.0127 0 0 1 595.4603 586.2937)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">51</text>
+	</g>
+	<g id="gate21">
+		<ellipse id="circle_x5F_path_x5F_layer_42_" fill="#231F20" cx="620.195" cy="565.092" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_42_" transform="matrix(1.0127 0 0 1 614.9554 569.1785)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">21</text>
+	</g>
+	<g id="gate40">
+		<ellipse id="circle_x5F_path_x5F_layer_43_" fill="#231F20" cx="629.195" cy="593.448" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_43_" transform="matrix(1.0127 0 0 1 623.9554 597.5339)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">40</text>
+	</g>
+	<g id="gate37">
+		<ellipse id="circle_x5F_path_x5F_layer_27_" fill="#231F20" cx="711.327" cy="634.394" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_27_" transform="matrix(1.0127 0 0 1 705.181 638.4812)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">37</text>
+	</g>
+	<g id="gate49">
+		<ellipse id="circle_x5F_path_x5F_layer_30_" fill="#231F20" cx="710.6" cy="668.164" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_30_" transform="matrix(1.0127 0 0 1 704.4545 672.2527)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">49</text>
+	</g>
+	<g id="gate22">
+		<ellipse id="circle_x5F_path_x5F_layer_28_" fill="#231F20" cx="734.089" cy="621.56" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_28_" transform="matrix(1.0127 0 0 1 727.9427 625.6472)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">22</text>
+	</g>
+	<g id="gate55">
+		<ellipse id="circle_x5F_path_x5F_layer_31_" fill="#231F20" cx="733.249" cy="680.585" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_31_" transform="matrix(1.0127 0 0 1 727.1029 684.6726)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">55</text>
+	</g>
+	<g id="gate30">
+		<ellipse id="circle_x5F_path_x5F_layer_32_" fill="#231F20" cx="755.867" cy="692.565" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_32_" transform="matrix(1.0127 0 0 1 749.722 696.6531)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">30</text>
+	</g>
+	<g id="gate36">
+		<ellipse id="circle_x5F_path_x5F_layer_29_" fill="#231F20" cx="757.319" cy="609.141" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_29_" transform="matrix(1.0127 0 0 1 751.1732 613.2273)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">36</text>
+	</g>
+	<g id="gate50">
+		<ellipse id="circle_x5F_path_x5F_layer_39_" fill="#231F20" cx="320.237" cy="651.018" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_39_" transform="matrix(1.0127 0 0 1 313.9969 655.1042)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">50</text>
+	</g>
+	<g id="gate44">
+		<ellipse id="circle_x5F_path_x5F_layer_38_" fill="#231F20" cx="287.346" cy="632.668" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_38_" transform="matrix(1.0127 0 0 1 281.1996 636.7546)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">44</text>
+	</g>
+	<g id="gate32">
+		<ellipse id="circle_x5F_path_x5F_layer_37_" fill="#231F20" cx="284.477" cy="671.617" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_37_" transform="matrix(1.0127 0 0 1 278.3309 675.7048)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">32</text>
+	</g>
+	<g id="gate57">
+		<ellipse id="circle_x5F_path_x5F_layer_36_" fill="#231F20" cx="263.713" cy="619.107" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_36_" transform="matrix(1.0127 0 0 1 257.5668 623.1941)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">57</text>
+	</g>
+	<g id="gate28">
+		<ellipse id="circle_x5F_path_x5F_layer_35_" fill="#231F20" cx="261.374" cy="683.31" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_35_" transform="matrix(1.0127 0 0 1 255.2279 687.3992)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">28</text>
+	</g>
+	<g id="gate18">
+		<ellipse id="circle_x5F_path_x5F_layer_34_" fill="#231F20" cx="238.756" cy="695.293" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_34_" transform="matrix(1.0127 0 0 1 232.6097 699.3796)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">18</text>
+	</g>
+	<g id="gate48">
+		<ellipse id="circle_x5F_path_x5F_layer_33_" fill="#231F20" cx="240.209" cy="607.414" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_33_" transform="matrix(1.0127 0 0 1 234.0629 611.5027)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">48</text>
+	</g>
+	<g id="gate9">
+		<ellipse id="circle_x5F_path_x5F_layer_3_" fill="#231F20" cx="526.108" cy="744.668" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_3_" transform="matrix(1.0127 0 0 1 523.267 748.7546)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">9</text>
+	</g>
+	<g id="gate5">
+		<ellipse id="circle_x5F_path_x5F_layer_11_" fill="#231F20" cx="474.003" cy="676.018" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_11_" transform="matrix(1.0127 0 0 1 471.0511 680.1062)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">5</text>
+	</g>
+	<g id="gate34">
+		<ellipse id="circle_x5F_path_x5F_layer_23_" fill="#231F20" cx="465.335" cy="698.679" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_23_" transform="matrix(1.0127 0 0 1 458.7504 702.7664)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">34</text>
+	</g>
+	<g id="gate27">
+		<ellipse id="circle_x5F_path_x5F_layer_24_" fill="#231F20" cx="465.335" cy="721.337" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_24_" transform="matrix(1.0127 0 0 1 458.7504 725.4255)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">27</text>
+	</g>
+	<g id="gate14">
+		<ellipse id="circle_x5F_path_x5F_layer_10_" fill="#231F20" cx="500.117" cy="676.018" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_10_" transform="matrix(1.0127 0 0 1 493.2445 680.1062)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">14</text>
+	</g>
+	<g id="gate29">
+		<ellipse id="circle_x5F_path_x5F_layer_9_" fill="#231F20" cx="526.108" cy="676.018" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_9_" transform="matrix(1.0127 0 0 1 519.6342 680.1062)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">29</text>
+	</g>
+	<g id="gate31">
+		<ellipse id="circle_x5F_path_x5F_layer_52_" fill="#231F20" cx="474.003" cy="404.697" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_52_" transform="matrix(1.0127 0 0 1 467.4193 408.783)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">31</text>
+	</g>
+	<g id="gate8">
+		<ellipse id="circle_x5F_path_x5F_layer_51_" fill="#231F20" cx="500.117" cy="404.697" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_51_" transform="matrix(1.0127 0 0 1 496.1507 408.783)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">8</text>
+	</g>
+	<g id="gate12">
+		<ellipse id="circle_x5F_path_x5F_layer_50_" fill="#231F20" cx="550.241" cy="370.691" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_50_" transform="matrix(1.0127 0 0 1 544.0961 374.7771)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">12</text>
+	</g>
+	<g id="gate45">
+		<ellipse id="circle_x5F_path_x5F_layer_63_" fill="#231F20" cx="550.241" cy="394.457" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_63_" transform="matrix(1.0127 0 0 1 544.0961 398.5427)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">45</text>
+	</g>
+	<g id="gate35">
+		<ellipse id="circle_x5F_path_x5F_layer_53_" fill="#231F20" cx="550.241" cy="337.707" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_53_" transform="matrix(1.0127 0 0 1 544.0961 341.7937)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">35</text>
+	</g>
+	<g id="gate33">
+		<ellipse id="circle_x5F_path_x5F_layer_49_" fill="#231F20" cx="526.108" cy="404.697" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_49_" transform="matrix(1.0127 0 0 1 520.267 408.783)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">33</text>
+	</g>
+	<g id="gate17">
+		<ellipse id="circle_x5F_path_x5F_layer_56_" fill="#231F20" cx="474.003" cy="229.03" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_56_" transform="matrix(1.0127 0 0 1 467.4193 233.1169)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">17</text>
+	</g>
+	<g id="gate43">
+		<ellipse id="circle_x5F_path_x5F_layer_55_" fill="#231F20" cx="500.117" cy="268.51" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_55_" transform="matrix(1.0127 0 0 1 494.1507 272.5964)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">43</text>
+	</g>
+	<g id="gate11">
+		<ellipse id="circle_x5F_path_x5F_layer_54_" fill="#231F20" cx="526.108" cy="229.03" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_54_" transform="matrix(1.0127 0 0 1 520.267 233.1169)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">11</text>
+	</g>
+	<g id="gate62">
+		<ellipse id="circle_x5F_path_x5F_layer_48_" fill="#231F20" cx="474.003" cy="336.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_48_" transform="matrix(1.0127 0 0 1 468.0511 340.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">62</text>
+	</g>
+	<g id="gate16">
+		<ellipse id="circle_x5F_path_x5F_layer_47_" fill="#231F20" cx="448.531" cy="358.707" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_47_" transform="matrix(1.0127 0 0 1 441.9467 362.7937)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">16</text>
+	</g>
+	<g id="gate20">
+		<ellipse id="circle_x5F_path_x5F_layer_46_" fill="#231F20" cx="448.531" cy="381.367" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_46_" transform="matrix(1.0127 0 0 1 441.9467 385.4529)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">20</text>
+	</g>
+	<g id="gate23">
+		<ellipse id="circle_x5F_path_x5F_layer_45_" fill="#231F20" cx="500.117" cy="336.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_45_" transform="matrix(1.0127 0 0 1 494.2445 340.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">23</text>
+	</g>
+	<g id="gate56">
+		<ellipse id="circle_x5F_path_x5F_layer_44_" fill="#231F20" cx="526.108" cy="336.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_44_" transform="matrix(1.0127 0 0 1 519.6342 340.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">56</text>
+	</g>
+	<g id="gate47">
+		<ellipse id="circle_x5F_path_x5F_layer_59_" fill="#231F20" cx="474.003" cy="198.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_59_" transform="matrix(1.0127 0 0 1 468.0511 202.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">47</text>
+	</g>
+	<g id="gate24">
+		<ellipse id="circle_x5F_path_x5F_layer_58_" fill="#231F20" cx="500.117" cy="198.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_58_" transform="matrix(1.0127 0 0 1 493.2445 202.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">24</text>
+	</g>
+	<g id="gate4">
+		<ellipse id="circle_x5F_path_x5F_layer_57_" fill="#231F20" cx="526.108" cy="198.048" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_57_" transform="matrix(1.0127 0 0 1 522.6342 202.1355)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">4</text>
+	</g>
+	<g id="gate64">
+		<ellipse id="circle_x5F_path_x5F_layer_62_" fill="#231F20" cx="474.003" cy="142.381" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_62_" transform="matrix(1.0127 0 0 1 468.0511 146.469)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">64</text>
+	</g>
+	<g id="gate61">
+		<ellipse id="circle_x5F_path_x5F_layer_61_" fill="#231F20" cx="500.117" cy="142.381" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_61_" transform="matrix(1.0127 0 0 1 493.2445 146.469)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">61</text>
+	</g>
+	<g id="gate63">
+		<ellipse id="circle_x5F_path_x5F_layer_60_" fill="#231F20" cx="526.108" cy="142.381" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_60_" transform="matrix(1.0127 0 0 1 519.6342 146.469)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">63</text>
+	</g>
+	<g id="gate53">
+		<ellipse id="circle_x5F_path_x5F_layer" fill="#231F20" cx="474.003" cy="810.895" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13" transform="matrix(1.0127 0 0 1 467.4193 814.9812)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">53</text>
+	</g>
+	<g id="gate54">
+		<ellipse id="circle_x5F_path_x5F_layer_17_" fill="#231F20" cx="448.531" cy="822.195" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_17_" transform="matrix(1.0127 0 0 1 441.9467 826.281)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">54</text>
+	</g>
+	<g id="gate38">
+		<ellipse id="circle_x5F_path_x5F_layer_18_" fill="#231F20" cx="448.531" cy="846.41" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_18_" transform="matrix(1.0127 0 0 1 441.9467 850.4958)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">38</text>
+	</g>
+	<g id="gate58">
+		<ellipse id="circle_x5F_path_x5F_layer_19_" fill="#231F20" cx="448.531" cy="869.472" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_19_" transform="matrix(1.0127 0 0 1 441.9467 873.5574)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">58</text>
+	</g>
+	<g id="gate19">
+		<ellipse id="circle_x5F_path_x5F_layer_22_" fill="#231F20" cx="550.241" cy="822.195" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_22_" transform="matrix(1.0127 0 0 1 543.6586 826.281)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">19</text>
+	</g>
+	<g id="gate39">
+		<ellipse id="circle_x5F_path_x5F_layer_21_" fill="#231F20" cx="550.241" cy="846.41" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_21_" transform="matrix(1.0127 0 0 1 543.6586 850.4958)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">39</text>
+	</g>
+	<g id="gate41">
+		<ellipse id="circle_x5F_path_x5F_layer_20_" fill="#231F20" cx="550.241" cy="869.472" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_20_" transform="matrix(1.0127 0 0 1 543.6586 873.5574)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">41</text>
+	</g>
+	<g id="gate60">
+		<ellipse id="circle_x5F_path_x5F_layer_1_" fill="#231F20" cx="500.117" cy="810.895" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_1_" transform="matrix(1.0127 0 0 1 493.5326 814.9812)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">60</text>
+	</g>
+	<g id="gate52">
+		<ellipse id="circle_x5F_path_x5F_layer_2_" fill="#231F20" cx="526.108" cy="810.895" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_2_" transform="matrix(1.0127 0 0 1 519.5238 814.9812)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">52</text>
+	</g>
+	<g id="gate15">
+		<ellipse id="circle_x5F_path_x5F_layer_8_" fill="#231F20" cx="474.003" cy="547.726" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_8_" transform="matrix(1.0127 0 0 1 467.4193 551.8152)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">15</text>
+	</g>
+	<g id="gate10">
+		<ellipse id="circle_x5F_path_x5F_layer_15_" fill="#231F20" cx="455.115" cy="527.706" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_15_" transform="matrix(1.0127 0 0 1 448.5316 531.7927)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">10</text>
+	</g>
+	<g id="gate25">
+		<ellipse id="circle_x5F_path_x5F_layer_16_" fill="#231F20" cx="547.374" cy="527.706" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_16_" transform="matrix(1.0127 0 0 1 540.7904 531.7927)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">25</text>
+	</g>
+	<g id="gate2">
+		<ellipse id="circle_x5F_path_x5F_layer_7_" fill="#231F20" cx="500.117" cy="572.566" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_7_" transform="matrix(1.0127 0 0 1 497.6029 576.6531)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">2</text>
+	</g>
+	<g id="gate46">
+		<ellipse id="circle_x5F_path_x5F_layer_6_" fill="#231F20" cx="526.108" cy="547.726" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_6_" transform="matrix(1.0127 0 0 1 519.6342 551.8152)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">46</text>
+	</g>
+	<g id="gate7">
+		<ellipse id="circle_x5F_path_x5F_layer_14_" fill="#231F20" cx="474.003" cy="508.136" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_14_" transform="matrix(1.0127 0 0 1 471.0511 512.2234)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">7</text>
+	</g>
+	<g id="gate1">
+		<ellipse id="circle_x5F_path_x5F_layer_13_" fill="#231F20" cx="500.117" cy="483.577" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_13_" transform="matrix(1.0127 0 0 1 496.8763 487.6638)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">1</text>
+	</g>
+	<g id="gate13">
+		<ellipse id="circle_x5F_path_x5F_layer_12_" fill="#231F20" cx="526.108" cy="508.136" rx="10.219" ry="10.24"/>
+		
+			<text id="text_x5F_layer_x5F_13_12_" transform="matrix(1.0127 0 0 1 519.6342 512.2234)" fill="#E2E2E2" font-family="'MyriadPro-Regular'" font-size="12.1339">13</text>
+	</g>
+</g>
+</svg>

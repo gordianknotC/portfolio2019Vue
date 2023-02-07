@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="juno" x="0" y="0" width="24" height="24" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="24" height="24"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M13.022,7.271l3.674,-3.674l1.95,-1.951c0,0 0.073,-0.062 0.114,-0.085c0.113,-0.062 0.151,-0.051 0.276,-0.06c0.046,0.01 0.092,0.02 0.139,0.031c0.109,0.059 0.148,0.065 0.225,0.168c0.113,0.151 0.131,0.372 0.039,0.54c-0.023,0.041 -0.057,0.076 -0.085,0.114l-5.647,5.646l7.793,0l0.141,0.02c0.113,0.052 0.153,0.055 0.237,0.153c0.188,0.217 0.139,0.589 -0.108,0.748c-0.108,0.069 -0.147,0.061 -0.27,0.079l-7.793,0l5.647,5.646l-0.708,0.708l-5.624,-5.625l0,9.771l4.478,0l0,1l-4.478,0l0,3.5l-1.044,0l0,-3.5l-4.478,0l0,-1l4.478,0l0,-9.771l-5.624,5.625l-0.708,-0.708l5.647,-5.646l-8.293,0l0,-1l8.293,0l-5.647,-5.646l0.708,-0.708l5.624,5.625l0,-7.271l1.044,0l0,7.271Z" style="fill:#fff;fill-rule:nonzero;"/>
+    </g>
+</svg>
